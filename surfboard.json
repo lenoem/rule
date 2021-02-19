@@ -8,8 +8,8 @@ dns-server = system, 223.5.5.5
 exclude-simple-hostnames = true
 enhanced-mode-by-rule = true
 test-timeout = 5
-internet-test-url = https://google.com
-proxy-test-url = https://google.com
+internet-test-url = http://google.com
+proxy-test-url = http://google.com
 [Proxy]
 DIRECT = direct
 🇭🇰 V3-中转2934|广港-新加坡|x1.5|V2ray = vmess, linode-zy.ddns-only.xyz, 12934, username=2a9379bd-02de-3dfa-b43a-b8476592d56a, tls=false, ws=true, ws-path=/v2ray, sni=linode-zy.ddns-only.xyz, ws-headers=Host:linode-zy.ddns-only.xyz
