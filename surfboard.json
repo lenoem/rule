@@ -8,7 +8,7 @@ dns-server = system, 223.5.5.5
 exclude-simple-hostnames = true
 enhanced-mode-by-rule = true
 test-timeout = 5
-internet-test-url = http://google.com
+internet-test-url = http://baidu.com
 proxy-test-url = http://google.com
 [Proxy]
 DIRECT = direct
