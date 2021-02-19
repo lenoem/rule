@@ -1,4 +1,4 @@
-#!MANAGED-CONFIG https://example.com/surfboard.conf interval=86400 strict=true
+#!MANAGED-CONFIG https://raw.githubusercontent.com/lenoem/rule/main/surfboard.json interval=86400 strict=true
 [General]
 loglevel = notify
 interface = 127.0.0.1
