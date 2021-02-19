@@ -1,10 +1,10 @@
 #!MANAGED-CONFIG https://raw.githubusercontent.com/lenoem/rule/main/surfboard.json interval=86400 strict=true
 [General]
 skip-proxy = 127.0.0.1, 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, 100.64.0.0/10, localhost, *.local
-dns-server = system,119.29.29.29,223.5.5.5
+dns-server = system,223.5.5.5
 test-timeout = 5
-internet-test-url = http://www.gstatic.com/generate_204
-proxy-test-url = http://www.gstatic.com/generate_204
+internet-test-url = http://www.google.com
+proxy-test-url = http://www.google.com
 [Proxy]
 DIRECT = direct
 🇭🇰 V3-中转2934|广港-新加坡|x1.5|V2ray = vmess, linode-zy.ddns-only.xyz, 12934, username=2a9379bd-02de-3dfa-b43a-b8476592d56a, tls=false, ws=true, ws-path=/v2ray, sni=linode-zy.ddns-only.xyz, ws-headers=Host:linode-zy.ddns-only.xyz
